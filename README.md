@@ -1,5 +1,9 @@
 # Hi there, I'm Saurabh Yadav 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</div>
+
 ## 🎓 About Me
 
 I am a **Full Stack Developer** and a 4th-year B.Tech student in Information Technology at **ABES Engineering College, Ghaziabad**. With a passion for building scalable, dynamic, and responsive web applications, I focus on solving real-world problems through innovative technology solutions. My journey in software development is driven by continuous learning and the pursuit of technical excellence.
@@ -34,34 +38,53 @@ I am a **Full Stack Developer** and a 4th-year B.Tech student in Information Tec
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+<div align="center">
 
 ### 🔍 IMEI Checker
 A comprehensive MERN stack-based web application designed to validate IMEI numbers with accuracy and efficiency. This project demonstrates my expertise in full-stack development and my ability to create practical, user-focused solutions.
 
-**🔗 Live Demo:** [IMEI Checker Application](https://imei-checker-y4qe.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://imei-checker-y4qe.onrender.com)
+[![GitHub](https://img.shields.io/badge/📂-Source%20Code-blue?style=for-the-badge)](https://github.com/Sau152004/IMEI-Checker)
 
-**📂 Repository:** [View Source Code](https://github.com/Sau152004/IMEI-Checker)
+**Tech Stack:** `MongoDB` • `Express.js` • `React.js` • `Node.js`
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+---
+
+### 🎤 Mic Tester
+A web-based microphone testing tool that provides real-time audio level monitoring and device functionality testing. Built with modern web technologies to help users ensure their microphone is working properly before important calls or recordings.
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://mic-tester.onrender.com)
+[![GitHub](https://img.shields.io/badge/📂-Source%20Code-blue?style=for-the-badge)](https://github.com/Sau152004/Mic-Tester.git)
+
+**Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Web Audio API`
+
+**Key Features:**
+- Real-time audio level visualization
+- Cross-browser compatibility
+- Privacy-focused (no data storage)
+- Responsive design for all devices
+- Instant microphone feedback
+
+</div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sau152004&show_icons=true&theme=radical" alt="Saurabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sau152004&show_icons=true&theme=radical&hide_border=true" alt="Saurabh's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sau152004&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sau152004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sau152004&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sau152004&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Areas of Interest
@@ -71,16 +94,36 @@ A comprehensive MERN stack-based web application designed to validate IMEI numbe
 - Exploring modern development frameworks and tools
 - Continuously expanding technical skillset and knowledge base
 
+## 🌟 What I'm Working On
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Sau152004&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Sau152004?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/Sau152004?style=for-the-badge&color=yellow)
+
+</div>
+
 ## 📫 How to Reach Me
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysaurabh0704@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-yadav-44947625b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sau152004)
 
+</div>
+
 ---
 
+<div align="center">
+  
 **💡 Open to Collaboration**
 
 I am always excited to collaborate on innovative projects and connect with fellow developers. Whether you're looking to work on challenging problems, share knowledge, or explore new technologies together, I welcome the opportunity to contribute and learn. Feel free to reach out through any of the channels above.
 
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
