@@ -56,6 +56,23 @@ A comprehensive MERN stack-based web application designed to validate IMEI numbe
 
 ---
 
+### 🎱 Magic 8 Ball
+An interactive web application that brings the classic Magic 8 Ball experience to your browser. Built with smooth animations and responsive design, it provides mystical answers to your yes/no questions with an engaging user interface suitable for all ages.
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge)](https://magic-8-ball-6v6t.onrender.com)
+[![GitHub](https://img.shields.io/badge/📂-Source%20Code-blue?style=for-the-badge)](https://github.com/Sau152004/magic-8-ball.git)
+
+**Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Responsive Design`
+
+**Key Features:**
+- Interactive Magic 8 Ball with smooth animations
+- Randomized mystical answers
+- Mobile-responsive design
+- Cross-browser compatibility
+- Engaging visual effects
+
+---
+
 ### 🎤 Mic Tester
 A web-based microphone testing tool that provides real-time audio level monitoring and device functionality testing. Built with modern web technologies to help users ensure their microphone is working properly before important calls or recordings.
 
